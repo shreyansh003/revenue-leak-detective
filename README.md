@@ -1,4 +1,8 @@
 ````markdown
+## 🚀 Live Demo
+
+[Open Revenue Leak Detective](https://revenue-leak-detective-mofjqgn48vg5g6y5emptet.streamlit.app/)
+
 # 💰 Revenue Leak Detective
 
 AI-powered revenue recovery investigation and decision system built for the Razorpay AI Builder Internship / Buildathon 2026.
